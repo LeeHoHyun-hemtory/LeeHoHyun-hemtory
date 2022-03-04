@@ -16,3 +16,5 @@ Here are some ideas to get you started:
 -->
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=hemtory%20Git&fontSize=90)
+
+[![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black)](https://github.com/LeeHoHyun-hemtory)
