@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=hemtory%20Git&fontSize=90)
 
-[![HTML5](https://img.shields.io/badge/ HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=black)](https://github.com/LeeHoHyun-hemtory)
+[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=black)](https://github.com/LeeHoHyun-hemtory)
 [![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=black)](https://github.com/LeeHoHyun-hemtory)
 [![JS](https://img.shields.io/badge/JavaScript-333?style=flat-square&logo=JavaScript&logoColor=F7DF1E)](https://github.com/LeeHoHyun-hemtory)
 [![TS](https://img.shields.io/badge/TypeScript-333?style=flat-square&logo=TypeScript&logoColor=3178C6)](https://github.com/LeeHoHyun-hemtory)
